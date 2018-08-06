@@ -15,6 +15,8 @@ Divyapreet  Chawla V00862263
 Introduction 
 ------------
 
+The Files Sat2sud729 and sud2sat729 are the minimalencided versions.
+while sat2sud and sud2sat are extended versions
 The Program Sud2Sat inclosed is designed to take a unsolved suduko puzzle of the form 
 
     000001000
