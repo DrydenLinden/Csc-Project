@@ -48,7 +48,7 @@ How To Run
 
 python sud2sat.py \<inputfile\>
     
-python sat2sud.py cnf.txt
+python sat2sud.py CNF.txt
 
 
 
