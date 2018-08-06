@@ -10,7 +10,7 @@ Whitney Dluhosh  V00839944
 
 Marina Dunn V00844643
 
-Divya  Chawla V00862263
+Divyapreet  Chawla V00862263
 
 Introduction 
 ------------
